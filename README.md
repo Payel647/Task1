@@ -33,6 +33,9 @@ GET    /claim/history     → Get claim history
 
 ---
 
+![Leaderboard UI](Image.jpg) 
+
+---
 ## 👩‍💻 Author
 
 Payel Mallick  
