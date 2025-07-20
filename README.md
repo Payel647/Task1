@@ -33,7 +33,7 @@ GET    /claim/history     → Get claim history
 
 ---
 
-![Leaderboard UI](Image.jpg) 
+![Leaderboard UI](Image.png) 
 
 ---
 ## 👩‍💻 Author
